@@ -6,4 +6,4 @@ ls
 cd 
 touch
 pull
-conflict
+conflict 
